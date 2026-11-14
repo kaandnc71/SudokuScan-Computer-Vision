@@ -1,0 +1,74 @@
+{
+  "image": "real_07.png",
+  "candidate_count": 812,
+  "A3_corner_error_px": 88.2847906459027,
+  "A4_rms_px": 20.7240453017865,
+  "obliqueness": 0.15970951318740845,
+  "has_grid_reference": true,
+  "has_corner_reference": true,
+  "rotation_clockwise_degrees": 0,
+  "corner_error_px": 3.787851003365981,
+  "corner_error_pct": 0.7615757535835259,
+  "A3_spacing_mae_px": 14.5,
+  "A3_line_fit_rms_px": 0.6631687156942572,
+  "A3_missing_line_count": 6,
+  "A3_cell_accuracy": 0.691358024691358,
+  "A3_empty_f1": 0.7863247863247863,
+  "A3_exact_match": 0,
+  "A4_spacing_mae_px": 9.666666666666666,
+  "A4_line_fit_rms_px": 0.6715145992855224,
+  "A4_missing_line_count": 5,
+  "A4_cell_accuracy": 0.7407407407407407,
+  "A4_empty_f1": 0.8214285714285714,
+  "A4_exact_match": 0,
+  "H4_spacing_mae_px": 1.1176470588235294,
+  "H4_line_fit_rms_px": 0.6320894864851984,
+  "H4_missing_line_count": 3,
+  "H4_cell_accuracy": 1.0,
+  "H4_empty_f1": 1.0,
+  "H4_exact_match": 1,
+  "H4_raw_cell_accuracy": 0.9259259259259259,
+  "H4_prepared_single_cell_accuracy": 0.9876543209876543,
+  "H4_preparation_gain": 0.061728395061728336,
+  "H4_ensemble_gain": 0.012345679012345734,
+  "H4_raw_confusions": [
+    {
+      "row": 1,
+      "col": 0,
+      "true": 9,
+      "predicted": 0
+    },
+    {
+      "row": 2,
+      "col": 4,
+      "true": 7,
+      "predicted": 0
+    },
+    {
+      "row": 3,
+      "col": 3,
+      "true": 9,
+      "predicted": 0
+    },
+    {
+      "row": 5,
+      "col": 2,
+      "true": 5,
+      "predicted": 0
+    },
+    {
+      "row": 7,
+      "col": 6,
+      "true": 7,
+      "predicted": 0
+    },
+    {
+      "row": 8,
+      "col": 5,
+      "true": 7,
+      "predicted": 0
+    }
+  ],
+  "H4_prepared_confusions": [],
+  "confusions": []
+}

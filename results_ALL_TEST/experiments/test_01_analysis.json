@@ -1,0 +1,13 @@
+{
+  "image": "test_01.jpg",
+  "obliqueness": 0.050405890388190766,
+  "candidate_count": 412,
+  "A3_corner_error_px": 24.5442783251719,
+  "A4_rms_px": 5.952384127397457,
+  "rotation_clockwise_degrees": 0,
+  "corner_error_px": 10.090532823268116,
+  "corner_error_pct": 1.5523341743478252,
+  "A3_spacing_mae_px": 4.8,
+  "A4_spacing_mae_px": 4.0,
+  "H4_spacing_mae_px": 2.65
+}

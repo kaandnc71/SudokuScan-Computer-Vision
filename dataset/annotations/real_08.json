@@ -1,0 +1,131 @@
+{
+  "image": "real_08.png",
+  "conditions": [],
+  "corners": [
+    [
+      351.5925,
+      317.655
+    ],
+    [
+      904.095,
+      295.935
+    ],
+    [
+      919.0275,
+      882.375
+    ],
+    [
+      363.81,
+      864.7275
+    ]
+  ],
+  "annotation_status": {
+    "corners": "manually_annotated",
+    "grid": "visually_verified"
+  },
+  "corner_reference_source": "Independent manual clicks on original photograph.",
+  "grid": [
+    [
+      0,
+      6,
+      2,
+      0,
+      4,
+      0,
+      0,
+      9,
+      1
+    ],
+    [
+      5,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      6,
+      8
+    ],
+    [
+      8,
+      0,
+      0,
+      3,
+      0,
+      9,
+      5,
+      2,
+      0
+    ],
+    [
+      0,
+      8,
+      0,
+      1,
+      0,
+      3,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      9,
+      0,
+      2,
+      0,
+      1,
+      0,
+      5
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      8,
+      3
+    ],
+    [
+      6,
+      0,
+      8,
+      0,
+      0,
+      1,
+      9,
+      0,
+      7
+    ],
+    [
+      0,
+      5,
+      0,
+      0,
+      0,
+      7,
+      8,
+      1,
+      6
+    ],
+    [
+      9,
+      0,
+      0,
+      6,
+      8,
+      5,
+      0,
+      0,
+      2
+    ]
+  ],
+  "grid_reference_source": "Manually transcribed and visually checked against the supplied photograph; blank cells are 0.",
+  "grid_orientation": "upright reading orientation",
+  "grid_rotation_clockwise_degrees": 90
+}

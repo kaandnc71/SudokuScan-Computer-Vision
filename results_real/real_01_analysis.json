@@ -1,0 +1,50 @@
+{
+  "image": "real_01.png",
+  "candidate_count": 620,
+  "A3_corner_error_px": 60.82561984224737,
+  "A4_rms_px": 14.041394108000025,
+  "obliqueness": 0.11533385515213013,
+  "has_grid_reference": true,
+  "has_corner_reference": true,
+  "rotation_clockwise_degrees": 90,
+  "corner_error_px": 4.578839587062246,
+  "corner_error_pct": 0.8557466112014633,
+  "A3_spacing_mae_px": 9.0,
+  "A3_line_fit_rms_px": 0.615725027249083,
+  "A3_missing_line_count": 9,
+  "A3_cell_accuracy": 0.7283950617283951,
+  "A3_empty_f1": 0.7961165048543689,
+  "A3_exact_match": 0,
+  "A4_spacing_mae_px": 6.0,
+  "A4_line_fit_rms_px": 0.5634352467612008,
+  "A4_missing_line_count": 0,
+  "A4_cell_accuracy": 1.0,
+  "A4_empty_f1": 1.0,
+  "A4_exact_match": 1,
+  "H4_spacing_mae_px": 1.0588235294117647,
+  "H4_line_fit_rms_px": 0.5772279393092581,
+  "H4_missing_line_count": 3,
+  "H4_cell_accuracy": 1.0,
+  "H4_empty_f1": 1.0,
+  "H4_exact_match": 1,
+  "H4_raw_cell_accuracy": 0.9753086419753086,
+  "H4_prepared_single_cell_accuracy": 1.0,
+  "H4_preparation_gain": 0.024691358024691357,
+  "H4_ensemble_gain": 0.0,
+  "H4_raw_confusions": [
+    {
+      "row": 5,
+      "col": 0,
+      "true": 8,
+      "predicted": 0
+    },
+    {
+      "row": 6,
+      "col": 4,
+      "true": 7,
+      "predicted": 0
+    }
+  ],
+  "H4_prepared_confusions": [],
+  "confusions": []
+}

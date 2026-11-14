@@ -1,0 +1,11 @@
+image,original_unread,clahe_unread,original_conflicts,clahe_conflicts
+test_01,0,0,0,0
+test_02,2,0,0,0
+test_03,12,1,2,0
+test_04,1,0,0,0
+test_05,2,0,0,0
+test_06,2,0,0,0
+test_07,0,1,0,0
+test_08,3,1,0,0
+test_09,1,0,0,0
+test_10,1,0,0,0

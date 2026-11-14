@@ -1,0 +1,23 @@
+{
+  "image": "test_04.jpg",
+  "obliqueness": 0.003021184804083199,
+  "candidate_count": 434,
+  "A3_corner_error_px": 1.3606226695666805,
+  "A4_rms_px": 0.3396406647687581,
+  "rotation_clockwise_degrees": 0,
+  "corner_error_px": 6.3436655232163695,
+  "corner_error_pct": 0.9684888005839306,
+  "A3_spacing_mae_px": 5.6,
+  "A3_cell_accuracy": 0.9876543209876543,
+  "A3_empty_f1": 0.98989898989899,
+  "A3_exact_match": 0,
+  "A4_spacing_mae_px": 5.6,
+  "A4_cell_accuracy": 1.0,
+  "A4_empty_f1": 1.0,
+  "A4_exact_match": 1,
+  "H4_spacing_mae_px": 5.8,
+  "H4_cell_accuracy": 0.9876543209876543,
+  "H4_empty_f1": 0.98989898989899,
+  "H4_exact_match": 0,
+  "H4_raw_cell_accuracy": 0.9135802469135802
+}

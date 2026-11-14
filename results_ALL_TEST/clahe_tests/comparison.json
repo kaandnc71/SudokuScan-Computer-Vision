@@ -1,0 +1,72 @@
+[
+  {
+    "image": "test_01",
+    "original_unread": 0,
+    "clahe_unread": 0,
+    "original_conflicts": 0,
+    "clahe_conflicts": 0
+  },
+  {
+    "image": "test_02",
+    "original_unread": 2,
+    "clahe_unread": 0,
+    "original_conflicts": 0,
+    "clahe_conflicts": 0
+  },
+  {
+    "image": "test_03",
+    "original_unread": 12,
+    "clahe_unread": 1,
+    "original_conflicts": 2,
+    "clahe_conflicts": 0
+  },
+  {
+    "image": "test_04",
+    "original_unread": 1,
+    "clahe_unread": 0,
+    "original_conflicts": 0,
+    "clahe_conflicts": 0
+  },
+  {
+    "image": "test_05",
+    "original_unread": 2,
+    "clahe_unread": 0,
+    "original_conflicts": 0,
+    "clahe_conflicts": 0
+  },
+  {
+    "image": "test_06",
+    "original_unread": 2,
+    "clahe_unread": 0,
+    "original_conflicts": 0,
+    "clahe_conflicts": 0
+  },
+  {
+    "image": "test_07",
+    "original_unread": 0,
+    "clahe_unread": 1,
+    "original_conflicts": 0,
+    "clahe_conflicts": 0
+  },
+  {
+    "image": "test_08",
+    "original_unread": 3,
+    "clahe_unread": 1,
+    "original_conflicts": 0,
+    "clahe_conflicts": 0
+  },
+  {
+    "image": "test_09",
+    "original_unread": 1,
+    "clahe_unread": 0,
+    "original_conflicts": 0,
+    "clahe_conflicts": 0
+  },
+  {
+    "image": "test_10",
+    "original_unread": 1,
+    "clahe_unread": 0,
+    "original_conflicts": 0,
+    "clahe_conflicts": 0
+  }
+]

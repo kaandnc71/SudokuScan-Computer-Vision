@@ -1,0 +1,2334 @@
+{
+  "image": "real_09.png",
+  "verdict": "valid",
+  "corners": [
+    [
+      203.92666625976562,
+      524.9000244140625
+    ],
+    [
+      703.4866943359375,
+      516.453369140625
+    ],
+    [
+      762.6133422851562,
+      1020.8400268554688
+    ],
+    [
+      166.52000427246094,
+      1035.320068359375
+    ]
+  ],
+  "A3": [
+    [
+      0.9019102347128648,
+      0.06609742640986391,
+      -218.61808816680153
+    ],
+    [
+      0.014925207053626082,
+      0.8827206288623325,
+      -466.3837273583177
+    ]
+  ],
+  "A4": [
+    [
+      0.8147308239853844,
+      -0.01713097540870298,
+      -135.80694615060784
+    ],
+    [
+      0.018833255327621253,
+      0.8864515626848488,
+      -470.09595640351546
+    ]
+  ],
+  "H4": [
+    [
+      1.1161895967361934,
+      0.0818011115631858,
+      -270.55822883285776
+    ],
+    [
+      0.02222040434037362,
+      1.3141800460412758,
+      -694.3444712316159
+    ],
+    [
+      -1.0054851490592149e-05,
+      0.0004737259572686472,
+      1.0
+    ]
+  ],
+  "a3_corner_err_px": 86.752623264337,
+  "a4_rms_px": 19.784410076112152,
+  "a3_unused_br_target": [
+    536.6655889200889,
+    446.11498515084594
+  ],
+  "h4_max_residual_px": 0.0,
+  "rotation_clockwise_degrees": 0,
+  "orientation_checks": [
+    {
+      "angle": 0,
+      "filled_samples": 12,
+      "recognized": 12,
+      "score": 1.43
+    },
+    {
+      "angle": 90,
+      "filled_samples": 12,
+      "recognized": 0,
+      "score": 0.0
+    },
+    {
+      "angle": 180,
+      "filled_samples": 12,
+      "recognized": 6,
+      "score": 0.7033333333333333
+    },
+    {
+      "angle": 270,
+      "filled_samples": 12,
+      "recognized": 0,
+      "score": 0.0
+    }
+  ],
+  "grid": [
+    [
+      0,
+      6,
+      2,
+      0,
+      4,
+      0,
+      0,
+      9,
+      1
+    ],
+    [
+      5,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      6,
+      8
+    ],
+    [
+      8,
+      0,
+      0,
+      3,
+      0,
+      9,
+      5,
+      2,
+      0
+    ],
+    [
+      0,
+      8,
+      0,
+      1,
+      0,
+      3,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      9,
+      0,
+      2,
+      0,
+      1,
+      0,
+      5
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      8,
+      3
+    ],
+    [
+      6,
+      0,
+      8,
+      0,
+      0,
+      1,
+      9,
+      0,
+      7
+    ],
+    [
+      0,
+      5,
+      0,
+      0,
+      0,
+      7,
+      8,
+      1,
+      6
+    ],
+    [
+      9,
+      0,
+      0,
+      6,
+      8,
+      5,
+      0,
+      0,
+      2
+    ]
+  ],
+  "conflicts": [],
+  "unread_cells": [],
+  "ocr_cells": [
+    {
+      "row": 0,
+      "col": 1,
+      "digit": 6,
+      "vote_fraction": 1.0,
+      "readings": [
+        {
+          "digit": 6,
+          "confidence": 96.0,
+          "size": 28,
+          "psm": 10
+        },
+        {
+          "digit": 6,
+          "confidence": 55.0,
+          "size": 28,
+          "psm": 13
+        },
+        {
+          "digit": 6,
+          "confidence": 96.0,
+          "size": 36,
+          "psm": 10
+        },
+        {
+          "digit": 6,
+          "confidence": 59.0,
+          "size": 36,
+          "psm": 13
+        },
+        {
+          "digit": 6,
+          "confidence": 96.0,
+          "size": 44,
+          "psm": 10
+        },
+        {
+          "digit": 6,
+          "confidence": 84.0,
+          "size": 44,
+          "psm": 13
+        },
+        {
+          "digit": 6,
+          "confidence": 96.0,
+          "size": 52,
+          "psm": 10
+        },
+        {
+          "digit": 6,
+          "confidence": 90.0,
+          "size": 52,
+          "psm": 13
+        }
+      ]
+    },
+    {
+      "row": 0,
+      "col": 2,
+      "digit": 2,
+      "vote_fraction": 1.0,
+      "readings": [
+        {
+          "digit": 2,
+          "confidence": 97.0,
+          "size": 28,
+          "psm": 10
+        },
+        {
+          "digit": 2,
+          "confidence": 28.0,
+          "size": 28,
+          "psm": 13
+        },
+        {
+          "digit": 2,
+          "confidence": 97.0,
+          "size": 36,
+          "psm": 10
+        },
+        {
+          "digit": 2,
+          "confidence": 71.0,
+          "size": 36,
+          "psm": 13
+        },
+        {
+          "digit": 2,
+          "confidence": 97.0,
+          "size": 44,
+          "psm": 10
+        },
+        {
+          "digit": 2,
+          "confidence": 82.0,
+          "size": 44,
+          "psm": 13
+        },
+        {
+          "digit": 2,
+          "confidence": 96.0,
+          "size": 52,
+          "psm": 10
+        },
+        {
+          "digit": 2,
+          "confidence": 95.0,
+          "size": 52,
+          "psm": 13
+        }
+      ]
+    },
+    {
+      "row": 0,
+      "col": 4,
+      "digit": 4,
+      "vote_fraction": 1.0,
+      "readings": [
+        {
+          "digit": 4,
+          "confidence": 96.0,
+          "size": 28,
+          "psm": 10
+        },
+        {
+          "digit": 4,
+          "confidence": 81.0,
+          "size": 28,
+          "psm": 13
+        },
+        {
+          "digit": 4,
+          "confidence": 96.0,
+          "size": 36,
+          "psm": 10
+        },
+        {
+          "digit": 4,
+          "confidence": 74.0,
+          "size": 36,
+          "psm": 13
+        },
+        {
+          "digit": 4,
+          "confidence": 96.0,
+          "size": 44,
+          "psm": 10
+        },
+        {
+          "digit": 4,
+          "confidence": 92.0,
+          "size": 44,
+          "psm": 13
+        },
+        {
+          "digit": 4,
+          "confidence": 97.0,
+          "size": 52,
+          "psm": 10
+        },
+        {
+          "digit": 4,
+          "confidence": 83.0,
+          "size": 52,
+          "psm": 13
+        }
+      ]
+    },
+    {
+      "row": 0,
+      "col": 7,
+      "digit": 9,
+      "vote_fraction": 1.0,
+      "readings": [
+        {
+          "digit": 9,
+          "confidence": 96.0,
+          "size": 28,
+          "psm": 10
+        },
+        {
+          "digit": 9,
+          "confidence": 26.0,
+          "size": 28,
+          "psm": 13
+        },
+        {
+          "digit": 9,
+          "confidence": 96.0,
+          "size": 36,
+          "psm": 10
+        },
+        {
+          "digit": 0,
+          "confidence": 0.0,
+          "size": 36,
+          "psm": 13
+        },
+        {
+          "digit": 9,
+          "confidence": 96.0,
+          "size": 44,
+          "psm": 10
+        },
+        {
+          "digit": 9,
+          "confidence": 34.0,
+          "size": 44,
+          "psm": 13
+        },
+        {
+          "digit": 9,
+          "confidence": 96.0,
+          "size": 52,
+          "psm": 10
+        },
+        {
+          "digit": 9,
+          "confidence": 56.0,
+          "size": 52,
+          "psm": 13
+        }
+      ]
+    },
+    {
+      "row": 0,
+      "col": 8,
+      "digit": 1,
+      "vote_fraction": 1.0,
+      "readings": [
+        {
+          "digit": 1,
+          "confidence": 96.0,
+          "size": 28,
+          "psm": 10
+        },
+        {
+          "digit": 1,
+          "confidence": 58.0,
+          "size": 28,
+          "psm": 13
+        },
+        {
+          "digit": 1,
+          "confidence": 96.0,
+          "size": 36,
+          "psm": 10
+        },
+        {
+          "digit": 1,
+          "confidence": 79.0,
+          "size": 36,
+          "psm": 13
+        },
+        {
+          "digit": 1,
+          "confidence": 96.0,
+          "size": 44,
+          "psm": 10
+        },
+        {
+          "digit": 1,
+          "confidence": 82.0,
+          "size": 44,
+          "psm": 13
+        },
+        {
+          "digit": 1,
+          "confidence": 96.0,
+          "size": 52,
+          "psm": 10
+        },
+        {
+          "digit": 1,
+          "confidence": 59.0,
+          "size": 52,
+          "psm": 13
+        }
+      ]
+    },
+    {
+      "row": 1,
+      "col": 0,
+      "digit": 5,
+      "vote_fraction": 1.0,
+      "readings": [
+        {
+          "digit": 5,
+          "confidence": 96.0,
+          "size": 28,
+          "psm": 10
+        },
+        {
+          "digit": 5,
+          "confidence": 24.0,
+          "size": 28,
+          "psm": 13
+        },
+        {
+          "digit": 5,
+          "confidence": 96.0,
+          "size": 36,
+          "psm": 10
+        },
+        {
+          "digit": 5,
+          "confidence": 81.0,
+          "size": 36,
+          "psm": 13
+        },
+        {
+          "digit": 5,
+          "confidence": 96.0,
+          "size": 44,
+          "psm": 10
+        },
+        {
+          "digit": 5,
+          "confidence": 72.0,
+          "size": 44,
+          "psm": 13
+        },
+        {
+          "digit": 5,
+          "confidence": 96.0,
+          "size": 52,
+          "psm": 10
+        },
+        {
+          "digit": 5,
+          "confidence": 59.0,
+          "size": 52,
+          "psm": 13
+        }
+      ]
+    },
+    {
+      "row": 1,
+      "col": 7,
+      "digit": 6,
+      "vote_fraction": 1.0,
+      "readings": [
+        {
+          "digit": 6,
+          "confidence": 96.0,
+          "size": 28,
+          "psm": 10
+        },
+        {
+          "digit": 6,
+          "confidence": 67.0,
+          "size": 28,
+          "psm": 13
+        },
+        {
+          "digit": 6,
+          "confidence": 96.0,
+          "size": 36,
+          "psm": 10
+        },
+        {
+          "digit": 6,
+          "confidence": 73.0,
+          "size": 36,
+          "psm": 13
+        },
+        {
+          "digit": 6,
+          "confidence": 96.0,
+          "size": 44,
+          "psm": 10
+        },
+        {
+          "digit": 6,
+          "confidence": 89.0,
+          "size": 44,
+          "psm": 13
+        },
+        {
+          "digit": 6,
+          "confidence": 96.0,
+          "size": 52,
+          "psm": 10
+        },
+        {
+          "digit": 6,
+          "confidence": 90.0,
+          "size": 52,
+          "psm": 13
+        }
+      ]
+    },
+    {
+      "row": 1,
+      "col": 8,
+      "digit": 8,
+      "vote_fraction": 1.0,
+      "readings": [
+        {
+          "digit": 8,
+          "confidence": 96.0,
+          "size": 28,
+          "psm": 10
+        },
+        {
+          "digit": 8,
+          "confidence": 26.0,
+          "size": 28,
+          "psm": 13
+        },
+        {
+          "digit": 8,
+          "confidence": 96.0,
+          "size": 36,
+          "psm": 10
+        },
+        {
+          "digit": 8,
+          "confidence": 79.0,
+          "size": 36,
+          "psm": 13
+        },
+        {
+          "digit": 8,
+          "confidence": 96.0,
+          "size": 44,
+          "psm": 10
+        },
+        {
+          "digit": 8,
+          "confidence": 80.0,
+          "size": 44,
+          "psm": 13
+        },
+        {
+          "digit": 8,
+          "confidence": 96.0,
+          "size": 52,
+          "psm": 10
+        },
+        {
+          "digit": 8,
+          "confidence": 82.0,
+          "size": 52,
+          "psm": 13
+        }
+      ]
+    },
+    {
+      "row": 2,
+      "col": 0,
+      "digit": 8,
+      "vote_fraction": 1.0,
+      "readings": [
+        {
+          "digit": 8,
+          "confidence": 96.0,
+          "size": 28,
+          "psm": 10
+        },
+        {
+          "digit": 8,
+          "confidence": 23.0,
+          "size": 28,
+          "psm": 13
+        },
+        {
+          "digit": 8,
+          "confidence": 96.0,
+          "size": 36,
+          "psm": 10
+        },
+        {
+          "digit": 8,
+          "confidence": 70.0,
+          "size": 36,
+          "psm": 13
+        },
+        {
+          "digit": 8,
+          "confidence": 96.0,
+          "size": 44,
+          "psm": 10
+        },
+        {
+          "digit": 8,
+          "confidence": 76.0,
+          "size": 44,
+          "psm": 13
+        },
+        {
+          "digit": 8,
+          "confidence": 96.0,
+          "size": 52,
+          "psm": 10
+        },
+        {
+          "digit": 8,
+          "confidence": 88.0,
+          "size": 52,
+          "psm": 13
+        }
+      ]
+    },
+    {
+      "row": 2,
+      "col": 3,
+      "digit": 3,
+      "vote_fraction": 1.0,
+      "readings": [
+        {
+          "digit": 3,
+          "confidence": 96.0,
+          "size": 28,
+          "psm": 10
+        },
+        {
+          "digit": 3,
+          "confidence": 0.0,
+          "size": 28,
+          "psm": 13
+        },
+        {
+          "digit": 3,
+          "confidence": 96.0,
+          "size": 36,
+          "psm": 10
+        },
+        {
+          "digit": 3,
+          "confidence": 83.0,
+          "size": 36,
+          "psm": 13
+        },
+        {
+          "digit": 3,
+          "confidence": 96.0,
+          "size": 44,
+          "psm": 10
+        },
+        {
+          "digit": 3,
+          "confidence": 84.0,
+          "size": 44,
+          "psm": 13
+        },
+        {
+          "digit": 3,
+          "confidence": 96.0,
+          "size": 52,
+          "psm": 10
+        },
+        {
+          "digit": 3,
+          "confidence": 82.0,
+          "size": 52,
+          "psm": 13
+        }
+      ]
+    },
+    {
+      "row": 2,
+      "col": 5,
+      "digit": 9,
+      "vote_fraction": 0.9413156649313773,
+      "readings": [
+        {
+          "digit": 9,
+          "confidence": 96.0,
+          "size": 28,
+          "psm": 10
+        },
+        {
+          "digit": 2,
+          "confidence": 24.0,
+          "size": 28,
+          "psm": 13
+        },
+        {
+          "digit": 9,
+          "confidence": 96.0,
+          "size": 36,
+          "psm": 10
+        },
+        {
+          "digit": 9,
+          "confidence": 26.0,
+          "size": 36,
+          "psm": 13
+        },
+        {
+          "digit": 9,
+          "confidence": 96.0,
+          "size": 44,
+          "psm": 10
+        },
+        {
+          "digit": 9,
+          "confidence": 63.0,
+          "size": 44,
+          "psm": 13
+        },
+        {
+          "digit": 9,
+          "confidence": 96.0,
+          "size": 52,
+          "psm": 10
+        },
+        {
+          "digit": 9,
+          "confidence": 32.0,
+          "size": 52,
+          "psm": 13
+        }
+      ]
+    },
+    {
+      "row": 2,
+      "col": 6,
+      "digit": 5,
+      "vote_fraction": 1.0,
+      "readings": [
+        {
+          "digit": 5,
+          "confidence": 95.0,
+          "size": 28,
+          "psm": 10
+        },
+        {
+          "digit": 5,
+          "confidence": 37.0,
+          "size": 28,
+          "psm": 13
+        },
+        {
+          "digit": 5,
+          "confidence": 96.0,
+          "size": 36,
+          "psm": 10
+        },
+        {
+          "digit": 5,
+          "confidence": 73.0,
+          "size": 36,
+          "psm": 13
+        },
+        {
+          "digit": 5,
+          "confidence": 96.0,
+          "size": 44,
+          "psm": 10
+        },
+        {
+          "digit": 5,
+          "confidence": 87.0,
+          "size": 44,
+          "psm": 13
+        },
+        {
+          "digit": 5,
+          "confidence": 96.0,
+          "size": 52,
+          "psm": 10
+        },
+        {
+          "digit": 5,
+          "confidence": 54.0,
+          "size": 52,
+          "psm": 13
+        }
+      ]
+    },
+    {
+      "row": 2,
+      "col": 7,
+      "digit": 2,
+      "vote_fraction": 1.0,
+      "readings": [
+        {
+          "digit": 2,
+          "confidence": 97.0,
+          "size": 28,
+          "psm": 10
+        },
+        {
+          "digit": 2,
+          "confidence": 31.0,
+          "size": 28,
+          "psm": 13
+        },
+        {
+          "digit": 2,
+          "confidence": 97.0,
+          "size": 36,
+          "psm": 10
+        },
+        {
+          "digit": 2,
+          "confidence": 76.0,
+          "size": 36,
+          "psm": 13
+        },
+        {
+          "digit": 2,
+          "confidence": 97.0,
+          "size": 44,
+          "psm": 10
+        },
+        {
+          "digit": 2,
+          "confidence": 87.0,
+          "size": 44,
+          "psm": 13
+        },
+        {
+          "digit": 2,
+          "confidence": 96.0,
+          "size": 52,
+          "psm": 10
+        },
+        {
+          "digit": 2,
+          "confidence": 94.0,
+          "size": 52,
+          "psm": 13
+        }
+      ]
+    },
+    {
+      "row": 3,
+      "col": 1,
+      "digit": 8,
+      "vote_fraction": 1.0,
+      "readings": [
+        {
+          "digit": 8,
+          "confidence": 95.0,
+          "size": 28,
+          "psm": 10
+        },
+        {
+          "digit": 8,
+          "confidence": 30.0,
+          "size": 28,
+          "psm": 13
+        },
+        {
+          "digit": 8,
+          "confidence": 96.0,
+          "size": 36,
+          "psm": 10
+        },
+        {
+          "digit": 8,
+          "confidence": 80.0,
+          "size": 36,
+          "psm": 13
+        },
+        {
+          "digit": 8,
+          "confidence": 96.0,
+          "size": 44,
+          "psm": 10
+        },
+        {
+          "digit": 8,
+          "confidence": 78.0,
+          "size": 44,
+          "psm": 13
+        },
+        {
+          "digit": 8,
+          "confidence": 96.0,
+          "size": 52,
+          "psm": 10
+        },
+        {
+          "digit": 8,
+          "confidence": 78.0,
+          "size": 52,
+          "psm": 13
+        }
+      ]
+    },
+    {
+      "row": 3,
+      "col": 3,
+      "digit": 1,
+      "vote_fraction": 0.9217345319936542,
+      "readings": [
+        {
+          "digit": 1,
+          "confidence": 95.0,
+          "size": 28,
+          "psm": 10
+        },
+        {
+          "digit": 4,
+          "confidence": 48.0,
+          "size": 28,
+          "psm": 13
+        },
+        {
+          "digit": 1,
+          "confidence": 96.0,
+          "size": 36,
+          "psm": 10
+        },
+        {
+          "digit": 0,
+          "confidence": 0.0,
+          "size": 36,
+          "psm": 13
+        },
+        {
+          "digit": 1,
+          "confidence": 96.0,
+          "size": 44,
+          "psm": 10
+        },
+        {
+          "digit": 1,
+          "confidence": 77.0,
+          "size": 44,
+          "psm": 13
+        },
+        {
+          "digit": 1,
+          "confidence": 96.0,
+          "size": 52,
+          "psm": 10
+        },
+        {
+          "digit": 0,
+          "confidence": 0.0,
+          "size": 52,
+          "psm": 13
+        }
+      ]
+    },
+    {
+      "row": 3,
+      "col": 5,
+      "digit": 3,
+      "vote_fraction": 1.0,
+      "readings": [
+        {
+          "digit": 3,
+          "confidence": 96.0,
+          "size": 28,
+          "psm": 10
+        },
+        {
+          "digit": 3,
+          "confidence": 0.0,
+          "size": 28,
+          "psm": 13
+        },
+        {
+          "digit": 3,
+          "confidence": 96.0,
+          "size": 36,
+          "psm": 10
+        },
+        {
+          "digit": 3,
+          "confidence": 84.0,
+          "size": 36,
+          "psm": 13
+        },
+        {
+          "digit": 3,
+          "confidence": 96.0,
+          "size": 44,
+          "psm": 10
+        },
+        {
+          "digit": 3,
+          "confidence": 81.0,
+          "size": 44,
+          "psm": 13
+        },
+        {
+          "digit": 3,
+          "confidence": 96.0,
+          "size": 52,
+          "psm": 10
+        },
+        {
+          "digit": 3,
+          "confidence": 75.0,
+          "size": 52,
+          "psm": 13
+        }
+      ]
+    },
+    {
+      "row": 4,
+      "col": 2,
+      "digit": 9,
+      "vote_fraction": 0.8583333333333334,
+      "readings": [
+        {
+          "digit": 9,
+          "confidence": 96.0,
+          "size": 28,
+          "psm": 10
+        },
+        {
+          "digit": 2,
+          "confidence": 15.0,
+          "size": 28,
+          "psm": 13
+        },
+        {
+          "digit": 9,
+          "confidence": 95.0,
+          "size": 36,
+          "psm": 10
+        },
+        {
+          "digit": 3,
+          "confidence": 23.0,
+          "size": 36,
+          "psm": 13
+        },
+        {
+          "digit": 0,
+          "confidence": 0.0,
+          "size": 44,
+          "psm": 10
+        },
+        {
+          "digit": 9,
+          "confidence": 55.0,
+          "size": 44,
+          "psm": 13
+        },
+        {
+          "digit": 9,
+          "confidence": 96.0,
+          "size": 52,
+          "psm": 10
+        },
+        {
+          "digit": 9,
+          "confidence": 13.0,
+          "size": 52,
+          "psm": 13
+        }
+      ]
+    },
+    {
+      "row": 4,
+      "col": 4,
+      "digit": 2,
+      "vote_fraction": 1.0,
+      "readings": [
+        {
+          "digit": 2,
+          "confidence": 97.0,
+          "size": 28,
+          "psm": 10
+        },
+        {
+          "digit": 2,
+          "confidence": 43.0,
+          "size": 28,
+          "psm": 13
+        },
+        {
+          "digit": 2,
+          "confidence": 97.0,
+          "size": 36,
+          "psm": 10
+        },
+        {
+          "digit": 2,
+          "confidence": 69.0,
+          "size": 36,
+          "psm": 13
+        },
+        {
+          "digit": 2,
+          "confidence": 97.0,
+          "size": 44,
+          "psm": 10
+        },
+        {
+          "digit": 2,
+          "confidence": 84.0,
+          "size": 44,
+          "psm": 13
+        },
+        {
+          "digit": 2,
+          "confidence": 96.0,
+          "size": 52,
+          "psm": 10
+        },
+        {
+          "digit": 2,
+          "confidence": 95.0,
+          "size": 52,
+          "psm": 13
+        }
+      ]
+    },
+    {
+      "row": 4,
+      "col": 6,
+      "digit": 1,
+      "vote_fraction": 0.9239709443099273,
+      "readings": [
+        {
+          "digit": 1,
+          "confidence": 96.0,
+          "size": 28,
+          "psm": 10
+        },
+        {
+          "digit": 4,
+          "confidence": 57.0,
+          "size": 28,
+          "psm": 13
+        },
+        {
+          "digit": 1,
+          "confidence": 96.0,
+          "size": 36,
+          "psm": 10
+        },
+        {
+          "digit": 1,
+          "confidence": 72.0,
+          "size": 36,
+          "psm": 13
+        },
+        {
+          "digit": 1,
+          "confidence": 96.0,
+          "size": 44,
+          "psm": 10
+        },
+        {
+          "digit": 0,
+          "confidence": 0.0,
+          "size": 44,
+          "psm": 13
+        },
+        {
+          "digit": 1,
+          "confidence": 96.0,
+          "size": 52,
+          "psm": 10
+        },
+        {
+          "digit": 1,
+          "confidence": 68.0,
+          "size": 52,
+          "psm": 13
+        }
+      ]
+    },
+    {
+      "row": 4,
+      "col": 8,
+      "digit": 5,
+      "vote_fraction": 1.0,
+      "readings": [
+        {
+          "digit": 5,
+          "confidence": 96.0,
+          "size": 28,
+          "psm": 10
+        },
+        {
+          "digit": 5,
+          "confidence": 39.0,
+          "size": 28,
+          "psm": 13
+        },
+        {
+          "digit": 5,
+          "confidence": 96.0,
+          "size": 36,
+          "psm": 10
+        },
+        {
+          "digit": 5,
+          "confidence": 79.0,
+          "size": 36,
+          "psm": 13
+        },
+        {
+          "digit": 5,
+          "confidence": 96.0,
+          "size": 44,
+          "psm": 10
+        },
+        {
+          "digit": 5,
+          "confidence": 85.0,
+          "size": 44,
+          "psm": 13
+        },
+        {
+          "digit": 5,
+          "confidence": 96.0,
+          "size": 52,
+          "psm": 10
+        },
+        {
+          "digit": 5,
+          "confidence": 39.0,
+          "size": 52,
+          "psm": 13
+        }
+      ]
+    },
+    {
+      "row": 5,
+      "col": 0,
+      "digit": 1,
+      "vote_fraction": 0.9261477045908183,
+      "readings": [
+        {
+          "digit": 1,
+          "confidence": 62.0,
+          "size": 28,
+          "psm": 10
+        },
+        {
+          "digit": 4,
+          "confidence": 48.0,
+          "size": 28,
+          "psm": 13
+        },
+        {
+          "digit": 1,
+          "confidence": 96.0,
+          "size": 36,
+          "psm": 10
+        },
+        {
+          "digit": 0,
+          "confidence": 0.0,
+          "size": 36,
+          "psm": 13
+        },
+        {
+          "digit": 1,
+          "confidence": 96.0,
+          "size": 44,
+          "psm": 10
+        },
+        {
+          "digit": 1,
+          "confidence": 78.0,
+          "size": 44,
+          "psm": 13
+        },
+        {
+          "digit": 1,
+          "confidence": 96.0,
+          "size": 52,
+          "psm": 10
+        },
+        {
+          "digit": 1,
+          "confidence": 78.0,
+          "size": 52,
+          "psm": 13
+        }
+      ]
+    },
+    {
+      "row": 5,
+      "col": 7,
+      "digit": 8,
+      "vote_fraction": 1.0,
+      "readings": [
+        {
+          "digit": 8,
+          "confidence": 96.0,
+          "size": 28,
+          "psm": 10
+        },
+        {
+          "digit": 8,
+          "confidence": 19.0,
+          "size": 28,
+          "psm": 13
+        },
+        {
+          "digit": 8,
+          "confidence": 96.0,
+          "size": 36,
+          "psm": 10
+        },
+        {
+          "digit": 8,
+          "confidence": 72.0,
+          "size": 36,
+          "psm": 13
+        },
+        {
+          "digit": 8,
+          "confidence": 96.0,
+          "size": 44,
+          "psm": 10
+        },
+        {
+          "digit": 8,
+          "confidence": 77.0,
+          "size": 44,
+          "psm": 13
+        },
+        {
+          "digit": 8,
+          "confidence": 96.0,
+          "size": 52,
+          "psm": 10
+        },
+        {
+          "digit": 8,
+          "confidence": 82.0,
+          "size": 52,
+          "psm": 13
+        }
+      ]
+    },
+    {
+      "row": 5,
+      "col": 8,
+      "digit": 3,
+      "vote_fraction": 1.0,
+      "readings": [
+        {
+          "digit": 3,
+          "confidence": 96.0,
+          "size": 28,
+          "psm": 10
+        },
+        {
+          "digit": 3,
+          "confidence": 3.0,
+          "size": 28,
+          "psm": 13
+        },
+        {
+          "digit": 3,
+          "confidence": 96.0,
+          "size": 36,
+          "psm": 10
+        },
+        {
+          "digit": 3,
+          "confidence": 81.0,
+          "size": 36,
+          "psm": 13
+        },
+        {
+          "digit": 3,
+          "confidence": 96.0,
+          "size": 44,
+          "psm": 10
+        },
+        {
+          "digit": 3,
+          "confidence": 81.0,
+          "size": 44,
+          "psm": 13
+        },
+        {
+          "digit": 3,
+          "confidence": 77.0,
+          "size": 52,
+          "psm": 10
+        },
+        {
+          "digit": 3,
+          "confidence": 85.0,
+          "size": 52,
+          "psm": 13
+        }
+      ]
+    },
+    {
+      "row": 6,
+      "col": 0,
+      "digit": 6,
+      "vote_fraction": 1.0,
+      "readings": [
+        {
+          "digit": 6,
+          "confidence": 96.0,
+          "size": 28,
+          "psm": 10
+        },
+        {
+          "digit": 6,
+          "confidence": 58.0,
+          "size": 28,
+          "psm": 13
+        },
+        {
+          "digit": 6,
+          "confidence": 96.0,
+          "size": 36,
+          "psm": 10
+        },
+        {
+          "digit": 6,
+          "confidence": 73.0,
+          "size": 36,
+          "psm": 13
+        },
+        {
+          "digit": 6,
+          "confidence": 97.0,
+          "size": 44,
+          "psm": 10
+        },
+        {
+          "digit": 6,
+          "confidence": 91.0,
+          "size": 44,
+          "psm": 13
+        },
+        {
+          "digit": 6,
+          "confidence": 97.0,
+          "size": 52,
+          "psm": 10
+        },
+        {
+          "digit": 6,
+          "confidence": 92.0,
+          "size": 52,
+          "psm": 13
+        }
+      ]
+    },
+    {
+      "row": 6,
+      "col": 2,
+      "digit": 8,
+      "vote_fraction": 1.0,
+      "readings": [
+        {
+          "digit": 8,
+          "confidence": 96.0,
+          "size": 28,
+          "psm": 10
+        },
+        {
+          "digit": 8,
+          "confidence": 33.0,
+          "size": 28,
+          "psm": 13
+        },
+        {
+          "digit": 8,
+          "confidence": 96.0,
+          "size": 36,
+          "psm": 10
+        },
+        {
+          "digit": 8,
+          "confidence": 53.0,
+          "size": 36,
+          "psm": 13
+        },
+        {
+          "digit": 8,
+          "confidence": 96.0,
+          "size": 44,
+          "psm": 10
+        },
+        {
+          "digit": 8,
+          "confidence": 81.0,
+          "size": 44,
+          "psm": 13
+        },
+        {
+          "digit": 8,
+          "confidence": 96.0,
+          "size": 52,
+          "psm": 10
+        },
+        {
+          "digit": 8,
+          "confidence": 80.0,
+          "size": 52,
+          "psm": 13
+        }
+      ]
+    },
+    {
+      "row": 6,
+      "col": 5,
+      "digit": 1,
+      "vote_fraction": 0.9336908824963432,
+      "readings": [
+        {
+          "digit": 1,
+          "confidence": 96.0,
+          "size": 28,
+          "psm": 10
+        },
+        {
+          "digit": 4,
+          "confidence": 36.0,
+          "size": 28,
+          "psm": 13
+        },
+        {
+          "digit": 1,
+          "confidence": 96.0,
+          "size": 36,
+          "psm": 10
+        },
+        {
+          "digit": 1,
+          "confidence": 70.0,
+          "size": 36,
+          "psm": 13
+        },
+        {
+          "digit": 1,
+          "confidence": 96.0,
+          "size": 44,
+          "psm": 10
+        },
+        {
+          "digit": 1,
+          "confidence": 77.0,
+          "size": 44,
+          "psm": 13
+        },
+        {
+          "digit": 1,
+          "confidence": 96.0,
+          "size": 52,
+          "psm": 10
+        },
+        {
+          "digit": 0,
+          "confidence": 0.0,
+          "size": 52,
+          "psm": 13
+        }
+      ]
+    },
+    {
+      "row": 6,
+      "col": 6,
+      "digit": 9,
+      "vote_fraction": 0.9356814701378253,
+      "readings": [
+        {
+          "digit": 9,
+          "confidence": 96.0,
+          "size": 28,
+          "psm": 10
+        },
+        {
+          "digit": 2,
+          "confidence": 26.0,
+          "size": 28,
+          "psm": 13
+        },
+        {
+          "digit": 9,
+          "confidence": 96.0,
+          "size": 36,
+          "psm": 10
+        },
+        {
+          "digit": 0,
+          "confidence": 0.0,
+          "size": 36,
+          "psm": 13
+        },
+        {
+          "digit": 9,
+          "confidence": 95.0,
+          "size": 44,
+          "psm": 10
+        },
+        {
+          "digit": 9,
+          "confidence": 48.0,
+          "size": 44,
+          "psm": 13
+        },
+        {
+          "digit": 9,
+          "confidence": 96.0,
+          "size": 52,
+          "psm": 10
+        },
+        {
+          "digit": 9,
+          "confidence": 19.0,
+          "size": 52,
+          "psm": 13
+        }
+      ]
+    },
+    {
+      "row": 6,
+      "col": 8,
+      "digit": 7,
+      "vote_fraction": 1.0,
+      "readings": [
+        {
+          "digit": 7,
+          "confidence": 96.0,
+          "size": 28,
+          "psm": 10
+        },
+        {
+          "digit": 7,
+          "confidence": 47.0,
+          "size": 28,
+          "psm": 13
+        },
+        {
+          "digit": 7,
+          "confidence": 96.0,
+          "size": 36,
+          "psm": 10
+        },
+        {
+          "digit": 7,
+          "confidence": 81.0,
+          "size": 36,
+          "psm": 13
+        },
+        {
+          "digit": 7,
+          "confidence": 96.0,
+          "size": 44,
+          "psm": 10
+        },
+        {
+          "digit": 7,
+          "confidence": 91.0,
+          "size": 44,
+          "psm": 13
+        },
+        {
+          "digit": 7,
+          "confidence": 96.0,
+          "size": 52,
+          "psm": 10
+        },
+        {
+          "digit": 7,
+          "confidence": 90.0,
+          "size": 52,
+          "psm": 13
+        }
+      ]
+    },
+    {
+      "row": 7,
+      "col": 1,
+      "digit": 5,
+      "vote_fraction": 1.0,
+      "readings": [
+        {
+          "digit": 5,
+          "confidence": 96.0,
+          "size": 28,
+          "psm": 10
+        },
+        {
+          "digit": 5,
+          "confidence": 38.0,
+          "size": 28,
+          "psm": 13
+        },
+        {
+          "digit": 5,
+          "confidence": 96.0,
+          "size": 36,
+          "psm": 10
+        },
+        {
+          "digit": 5,
+          "confidence": 83.0,
+          "size": 36,
+          "psm": 13
+        },
+        {
+          "digit": 5,
+          "confidence": 96.0,
+          "size": 44,
+          "psm": 10
+        },
+        {
+          "digit": 5,
+          "confidence": 77.0,
+          "size": 44,
+          "psm": 13
+        },
+        {
+          "digit": 5,
+          "confidence": 96.0,
+          "size": 52,
+          "psm": 10
+        },
+        {
+          "digit": 5,
+          "confidence": 38.0,
+          "size": 52,
+          "psm": 13
+        }
+      ]
+    },
+    {
+      "row": 7,
+      "col": 5,
+      "digit": 7,
+      "vote_fraction": 1.0,
+      "readings": [
+        {
+          "digit": 7,
+          "confidence": 96.0,
+          "size": 28,
+          "psm": 10
+        },
+        {
+          "digit": 7,
+          "confidence": 65.0,
+          "size": 28,
+          "psm": 13
+        },
+        {
+          "digit": 7,
+          "confidence": 95.0,
+          "size": 36,
+          "psm": 10
+        },
+        {
+          "digit": 7,
+          "confidence": 85.0,
+          "size": 36,
+          "psm": 13
+        },
+        {
+          "digit": 7,
+          "confidence": 96.0,
+          "size": 44,
+          "psm": 10
+        },
+        {
+          "digit": 7,
+          "confidence": 92.0,
+          "size": 44,
+          "psm": 13
+        },
+        {
+          "digit": 7,
+          "confidence": 95.0,
+          "size": 52,
+          "psm": 10
+        },
+        {
+          "digit": 7,
+          "confidence": 92.0,
+          "size": 52,
+          "psm": 13
+        }
+      ]
+    },
+    {
+      "row": 7,
+      "col": 6,
+      "digit": 8,
+      "vote_fraction": 1.0,
+      "readings": [
+        {
+          "digit": 8,
+          "confidence": 94.0,
+          "size": 28,
+          "psm": 10
+        },
+        {
+          "digit": 8,
+          "confidence": 34.0,
+          "size": 28,
+          "psm": 13
+        },
+        {
+          "digit": 8,
+          "confidence": 95.0,
+          "size": 36,
+          "psm": 10
+        },
+        {
+          "digit": 8,
+          "confidence": 75.0,
+          "size": 36,
+          "psm": 13
+        },
+        {
+          "digit": 8,
+          "confidence": 96.0,
+          "size": 44,
+          "psm": 10
+        },
+        {
+          "digit": 8,
+          "confidence": 79.0,
+          "size": 44,
+          "psm": 13
+        },
+        {
+          "digit": 8,
+          "confidence": 95.0,
+          "size": 52,
+          "psm": 10
+        },
+        {
+          "digit": 8,
+          "confidence": 71.0,
+          "size": 52,
+          "psm": 13
+        }
+      ]
+    },
+    {
+      "row": 7,
+      "col": 7,
+      "digit": 1,
+      "vote_fraction": 0.9296799224054316,
+      "readings": [
+        {
+          "digit": 1,
+          "confidence": 96.0,
+          "size": 28,
+          "psm": 10
+        },
+        {
+          "digit": 4,
+          "confidence": 45.0,
+          "size": 28,
+          "psm": 13
+        },
+        {
+          "digit": 1,
+          "confidence": 96.0,
+          "size": 36,
+          "psm": 10
+        },
+        {
+          "digit": 1,
+          "confidence": 74.0,
+          "size": 36,
+          "psm": 13
+        },
+        {
+          "digit": 1,
+          "confidence": 96.0,
+          "size": 44,
+          "psm": 10
+        },
+        {
+          "digit": 1,
+          "confidence": 75.0,
+          "size": 44,
+          "psm": 13
+        },
+        {
+          "digit": 1,
+          "confidence": 96.0,
+          "size": 52,
+          "psm": 10
+        },
+        {
+          "digit": 0,
+          "confidence": 0.0,
+          "size": 52,
+          "psm": 13
+        }
+      ]
+    },
+    {
+      "row": 7,
+      "col": 8,
+      "digit": 6,
+      "vote_fraction": 1.0,
+      "readings": [
+        {
+          "digit": 6,
+          "confidence": 96.0,
+          "size": 28,
+          "psm": 10
+        },
+        {
+          "digit": 6,
+          "confidence": 71.0,
+          "size": 28,
+          "psm": 13
+        },
+        {
+          "digit": 6,
+          "confidence": 97.0,
+          "size": 36,
+          "psm": 10
+        },
+        {
+          "digit": 6,
+          "confidence": 67.0,
+          "size": 36,
+          "psm": 13
+        },
+        {
+          "digit": 6,
+          "confidence": 96.0,
+          "size": 44,
+          "psm": 10
+        },
+        {
+          "digit": 6,
+          "confidence": 85.0,
+          "size": 44,
+          "psm": 13
+        },
+        {
+          "digit": 6,
+          "confidence": 97.0,
+          "size": 52,
+          "psm": 10
+        },
+        {
+          "digit": 6,
+          "confidence": 89.0,
+          "size": 52,
+          "psm": 13
+        }
+      ]
+    },
+    {
+      "row": 8,
+      "col": 0,
+      "digit": 9,
+      "vote_fraction": 1.0,
+      "readings": [
+        {
+          "digit": 9,
+          "confidence": 96.0,
+          "size": 28,
+          "psm": 10
+        },
+        {
+          "digit": 9,
+          "confidence": 20.0,
+          "size": 28,
+          "psm": 13
+        },
+        {
+          "digit": 9,
+          "confidence": 96.0,
+          "size": 36,
+          "psm": 10
+        },
+        {
+          "digit": 0,
+          "confidence": 0.0,
+          "size": 36,
+          "psm": 13
+        },
+        {
+          "digit": 9,
+          "confidence": 95.0,
+          "size": 44,
+          "psm": 10
+        },
+        {
+          "digit": 9,
+          "confidence": 52.0,
+          "size": 44,
+          "psm": 13
+        },
+        {
+          "digit": 9,
+          "confidence": 96.0,
+          "size": 52,
+          "psm": 10
+        },
+        {
+          "digit": 0,
+          "confidence": 0.0,
+          "size": 52,
+          "psm": 13
+        }
+      ]
+    },
+    {
+      "row": 8,
+      "col": 3,
+      "digit": 6,
+      "vote_fraction": 1.0,
+      "readings": [
+        {
+          "digit": 6,
+          "confidence": 96.0,
+          "size": 28,
+          "psm": 10
+        },
+        {
+          "digit": 6,
+          "confidence": 63.0,
+          "size": 28,
+          "psm": 13
+        },
+        {
+          "digit": 6,
+          "confidence": 96.0,
+          "size": 36,
+          "psm": 10
+        },
+        {
+          "digit": 6,
+          "confidence": 68.0,
+          "size": 36,
+          "psm": 13
+        },
+        {
+          "digit": 6,
+          "confidence": 96.0,
+          "size": 44,
+          "psm": 10
+        },
+        {
+          "digit": 6,
+          "confidence": 86.0,
+          "size": 44,
+          "psm": 13
+        },
+        {
+          "digit": 6,
+          "confidence": 97.0,
+          "size": 52,
+          "psm": 10
+        },
+        {
+          "digit": 6,
+          "confidence": 92.0,
+          "size": 52,
+          "psm": 13
+        }
+      ]
+    },
+    {
+      "row": 8,
+      "col": 4,
+      "digit": 8,
+      "vote_fraction": 1.0,
+      "readings": [
+        {
+          "digit": 8,
+          "confidence": 96.0,
+          "size": 28,
+          "psm": 10
+        },
+        {
+          "digit": 8,
+          "confidence": 21.0,
+          "size": 28,
+          "psm": 13
+        },
+        {
+          "digit": 8,
+          "confidence": 96.0,
+          "size": 36,
+          "psm": 10
+        },
+        {
+          "digit": 8,
+          "confidence": 79.0,
+          "size": 36,
+          "psm": 13
+        },
+        {
+          "digit": 8,
+          "confidence": 96.0,
+          "size": 44,
+          "psm": 10
+        },
+        {
+          "digit": 8,
+          "confidence": 84.0,
+          "size": 44,
+          "psm": 13
+        },
+        {
+          "digit": 8,
+          "confidence": 96.0,
+          "size": 52,
+          "psm": 10
+        },
+        {
+          "digit": 8,
+          "confidence": 83.0,
+          "size": 52,
+          "psm": 13
+        }
+      ]
+    },
+    {
+      "row": 8,
+      "col": 5,
+      "digit": 5,
+      "vote_fraction": 1.0,
+      "readings": [
+        {
+          "digit": 5,
+          "confidence": 96.0,
+          "size": 28,
+          "psm": 10
+        },
+        {
+          "digit": 5,
+          "confidence": 36.0,
+          "size": 28,
+          "psm": 13
+        },
+        {
+          "digit": 5,
+          "confidence": 96.0,
+          "size": 36,
+          "psm": 10
+        },
+        {
+          "digit": 5,
+          "confidence": 82.0,
+          "size": 36,
+          "psm": 13
+        },
+        {
+          "digit": 5,
+          "confidence": 96.0,
+          "size": 44,
+          "psm": 10
+        },
+        {
+          "digit": 5,
+          "confidence": 81.0,
+          "size": 44,
+          "psm": 13
+        },
+        {
+          "digit": 5,
+          "confidence": 96.0,
+          "size": 52,
+          "psm": 10
+        },
+        {
+          "digit": 5,
+          "confidence": 35.0,
+          "size": 52,
+          "psm": 13
+        }
+      ]
+    },
+    {
+      "row": 8,
+      "col": 8,
+      "digit": 2,
+      "vote_fraction": 1.0,
+      "readings": [
+        {
+          "digit": 2,
+          "confidence": 97.0,
+          "size": 28,
+          "psm": 10
+        },
+        {
+          "digit": 2,
+          "confidence": 53.0,
+          "size": 28,
+          "psm": 13
+        },
+        {
+          "digit": 2,
+          "confidence": 96.0,
+          "size": 36,
+          "psm": 10
+        },
+        {
+          "digit": 2,
+          "confidence": 73.0,
+          "size": 36,
+          "psm": 13
+        },
+        {
+          "digit": 2,
+          "confidence": 97.0,
+          "size": 44,
+          "psm": 10
+        },
+        {
+          "digit": 2,
+          "confidence": 85.0,
+          "size": 44,
+          "psm": 13
+        },
+        {
+          "digit": 2,
+          "confidence": 96.0,
+          "size": 52,
+          "psm": 10
+        },
+        {
+          "digit": 2,
+          "confidence": 95.0,
+          "size": 52,
+          "psm": 13
+        }
+      ]
+    }
+  ],
+  "candidate_count": 990,
+  "recognition_complete": true,
+  "runtime_s": 4.6506,
+  "total_runtime_s": 10.9862
+}

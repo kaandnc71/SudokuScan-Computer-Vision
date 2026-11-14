@@ -1,0 +1,132 @@
+{
+  "image": "test_04.jpg",
+  "dataset_type": "synthetic_development",
+  "verified": false,
+  "conditions": [],
+  "corners": [],
+  "grid": [
+    [
+      0,
+      6,
+      5,
+      0,
+      1,
+      0,
+      0,
+      0,
+      4
+    ],
+    [
+      0,
+      4,
+      2,
+      0,
+      0,
+      5,
+      7,
+      1,
+      8
+    ],
+    [
+      0,
+      8,
+      0,
+      0,
+      3,
+      2,
+      0,
+      0,
+      0
+    ],
+    [
+      4,
+      0,
+      0,
+      0,
+      0,
+      0,
+      9,
+      8,
+      0
+    ],
+    [
+      8,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3,
+      6,
+      5
+    ],
+    [
+      0,
+      0,
+      3,
+      0,
+      0,
+      0,
+      0,
+      4,
+      0
+    ],
+    [
+      7,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      7,
+      6,
+      0,
+      0,
+      1
+    ],
+    [
+      2,
+      1,
+      0,
+      3,
+      5,
+      4,
+      0,
+      7,
+      0
+    ]
+  ],
+  "annotation_status": {
+    "grid": "needs_visual_verification",
+    "corners": "needs_manual_annotation"
+  },
+  "draft_source": "clahe_ocr",
+  "predicted_corners_reference_only": [
+    [
+      448.33331298828125,
+      688.3333129882812
+    ],
+    [
+      998.3333129882812,
+      688.3333129882812
+    ],
+    [
+      1005.0,
+      1430.0
+    ],
+    [
+      453.33331298828125,
+      1430.0
+    ]
+  ],
+  "warning": "OCR predictions are not ground truth. Verify every cell and manually annotate original image corners."
+}

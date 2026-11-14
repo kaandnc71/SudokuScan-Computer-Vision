@@ -1,0 +1,15 @@
+{
+  "image_count": 10,
+  "grid_reference_count": 10,
+  "cell_accuracy": 1.0,
+  "correct_cells": 810,
+  "total_reference_cells": 810,
+  "grid_exact_match": 1.0,
+  "empty_f1": 1.0,
+  "robustness": 1.0,
+  "mean_runtime_s": 4.81633,
+  "max_runtime_s": 5.6303,
+  "confusions": {},
+  "corner_reference_count": 10,
+  "evaluation_scope": "Development photos only; no hidden-set claim."
+}

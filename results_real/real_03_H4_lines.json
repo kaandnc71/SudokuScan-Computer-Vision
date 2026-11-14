@@ -1,0 +1,65 @@
+{
+  "vertical": {
+    "positions": [
+      null,
+      47,
+      98,
+      148,
+      199,
+      249,
+      299,
+      351,
+      401,
+      null
+    ],
+    "offsets_px": [
+      null,
+      -3,
+      -2,
+      -2,
+      -1,
+      -1,
+      -1,
+      1,
+      1,
+      null
+    ],
+    "missing_lines": [
+      0,
+      450
+    ]
+  },
+  "horizontal": {
+    "positions": [
+      null,
+      47,
+      97,
+      147,
+      197,
+      247,
+      298,
+      349,
+      400,
+      null
+    ],
+    "offsets_px": [
+      null,
+      -3,
+      -3,
+      -3,
+      -3,
+      -3,
+      -2,
+      -1,
+      0,
+      null
+    ],
+    "missing_lines": [
+      0,
+      450
+    ]
+  },
+  "spacing_mae_px": 1.875,
+  "line_fit_rms_px": 0.6559660665678135,
+  "missing_line_count": 4
+}

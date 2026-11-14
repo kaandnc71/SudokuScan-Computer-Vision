@@ -1,0 +1,149 @@
+{
+  "image": "test_02.jpg",
+  "dataset_type": "synthetic_development",
+  "verified": true,
+  "conditions": [],
+  "corners": [
+    [
+      450.0,
+      672.5
+    ],
+    [
+      1005.0,
+      695.0
+    ],
+    [
+      1007.5,
+      1435.0
+    ],
+    [
+      445.0,
+      1422.5
+    ]
+  ],
+  "grid": [
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      4,
+      3,
+      9,
+      7
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      6,
+      0
+    ],
+    [
+      9,
+      0,
+      7,
+      0,
+      0,
+      0,
+      0,
+      0,
+      8
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      4,
+      0,
+      7,
+      3,
+      9
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      7,
+      0,
+      0,
+      0,
+      0,
+      8,
+      0,
+      0
+    ],
+    [
+      1,
+      2,
+      6,
+      4,
+      8,
+      5,
+      0,
+      7,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      2,
+      6,
+      5,
+      0,
+      4
+    ],
+    [
+      8,
+      5,
+      0,
+      7,
+      9,
+      0,
+      0,
+      2,
+      1
+    ]
+  ],
+  "annotation_status": {
+    "grid": "visually_verified",
+    "corners": "manually_annotated"
+  },
+  "draft_source": "clahe_ocr",
+  "predicted_corners_reference_only": [
+    [
+      453.33331298828125,
+      681.6666259765625
+    ],
+    [
+      1001.6666259765625,
+      696.6666259765625
+    ],
+    [
+      1005.0,
+      1428.333251953125
+    ],
+    [
+      450.0,
+      1418.333251953125
+    ]
+  ],
+  "warning": "OCR predictions are not ground truth. Verify every cell and manually annotate original image corners."
+}
